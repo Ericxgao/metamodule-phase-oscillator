@@ -1,0 +1,12 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-infrasonicaudio",
+    "MetaModuleDescription": "Warp Core for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "WarpCore",
+            "name": "Warp Core"
+        }
+    ]
+}
