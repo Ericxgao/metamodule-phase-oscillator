@@ -1,4 +1,6 @@
 {
+    "MetaModuleBrandName": "Phase Oscillator",
+    "MetaModuleBrandSlug": "PhaseOscillator",
     "MetaModulePluginMaintainer": "oksami",
     "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
     "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-phase-oscillator",
