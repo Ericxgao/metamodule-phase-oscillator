@@ -2,11 +2,11 @@
     "MetaModulePluginMaintainer": "oksami",
     "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
     "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-infrasonicaudio",
-    "MetaModuleDescription": "Warp Core for MetaModule",
+    "MetaModuleDescription": "Phase Oscillator for MetaModule (Unofficial port of Infrasonic Audio's Warp Core)",
     "MetaModuleIncludedModules": [
         {
-            "slug": "WarpCore",
-            "name": "Warp Core"
+            "slug": "PhaseOscillator",
+            "name": "Phase Oscillator"
         }
     ]
 }
